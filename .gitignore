@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+data/*
+!data/.gitkeep
+
+# служебное
+.ruff_cache/
+_to_delete/
